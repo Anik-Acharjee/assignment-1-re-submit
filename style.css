@@ -1,0 +1,99 @@
+body{
+    padding-left: 50px;
+}
+.orange-color{
+    color: orange;
+}
+
+.top{
+    display: flex;
+}
+
+.link-button{
+    text-decoration: none;
+    color: #ffffff;
+    background-image: linear-gradient(#FF5959, #E33434);
+    padding: 10px 10px;
+    font-weight: 700;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width img{
+    width: 50%;
+}
+
+.middle{
+    display: flex;
+}
+.middle img{
+    width: 100px;
+}
+
+.mission{
+    background-image: linear-gradient(#d3e0e2, rgb(253, 253, 253));
+    width: 360px;
+    height: 376px;
+    margin: 24px;
+    border-radius: 20px;
+}
+.vision{
+    background-image: linear-gradient(#d3e0e2, rgb(253, 253, 253));
+    width: 360px;
+    height: 376px;
+    margin: 24px;
+    border-radius: 20px;
+}
+
+.goals{
+    background-image: linear-gradient(#d3e0e2, rgb(253, 253, 253));
+    width: 360px;
+    height: 376px;
+    margin: 24px;
+    margin-bottom: 24px;
+    border-radius: 20px;
+}
+
+.middle-heading{
+    text-align: center;
+}
+
+.top2{
+    display: flex;
+}
+
+.half-width2{
+    width: 50%;
+}
+
+.half-width2 img{
+    background-image: url(img/shapes/shape-1.png);
+    width: 400px;
+    height: 350px;
+    padding-left: 150px;
+}
+
+.main-3{
+    margin-top: 50px;
+}
+.top3{
+    display: flex;
+}
+.half-width3 img{
+    background-image: url(img/shapes/shape-1.png);
+    width: 400px;
+    height: 350px;
+    padding-left: 150px;
+}
+
+
+footer{
+    background-color:#6e6b6b;
+}
+
+.footer-section{
+    text-align: center;
+    padding: 20px;
+}
